@@ -29,7 +29,7 @@ export default function About() {
           <ScrollReveal delay={0.1}>
             <div className="max-w-xl space-y-5 font-body text-sm md:text-base leading-relaxed text-charcoal">
               <p>
-                Avery started in front of the camera almost by accident — a
+                Iyah started in front of the camera almost by accident — a
                 street cast at nineteen that turned into a first booking, then
                 a season, then a career spent moving between editorial sets
                 and runway calls.

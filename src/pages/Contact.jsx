@@ -68,7 +68,7 @@ export default function Contact() {
           </ScrollReveal>
 
           <div className="mt-16 kicker text-charcoal/60 space-y-1">
-            <p>booking@averylane.com</p>
+            <p>booking@iyahmanalo.com</p>
             <p>Instagram — TikTok</p>
           </div>
         </div>

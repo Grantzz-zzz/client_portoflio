@@ -1,4 +1,4 @@
-# Avery Lane — Editorial Portfolio
+# Iyah Manalo — Editorial Portfolio
 
 A 5-page luxury editorial portfolio site. React + Vite, Tailwind CSS,
 Framer Motion (page/component transitions), GSAP + ScrollTrigger

@@ -69,7 +69,7 @@ export default function Nav() {
             className="fixed inset-0 z-50 bg-ink text-cream flex flex-col justify-between p-8"
           >
             <div className="flex justify-between items-center">
-              <span className="font-display text-lg tracking-widest2 uppercase">Avery Lane</span>
+              <span className="font-display text-lg tracking-widest2 uppercase">Iyah Manalo</span>
               <button onClick={() => setOpen(false)} className="kicker" aria-label="Close menu">
                 Close
               </button>
