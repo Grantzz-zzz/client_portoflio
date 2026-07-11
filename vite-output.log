@@ -1,0 +1,44 @@
+
+> editorial-portfolio@1.0.0 dev
+> vite --host 127.0.0.1
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m319[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m1:52:52 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:52:55 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:53:02 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:53:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:53:07 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:53:09 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:54:42 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:54:44 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:54:47 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:54:51 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:54:52 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:54:55 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:01 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:03 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:06 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:12 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:20 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:28 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:30 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:34 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:36 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:42 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:46 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:48 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:52 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:55 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:55:56 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:57:01 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:57:04 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m1:57:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m2:11:13 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m2:11:30 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Portfolio.jsx, /src/index.css, /src/pages/About.jsx, /src/pages/Home.jsx, /src/pages/Editorial.jsx, /src/pages/Contact.jsx[22m
+[2m2:20:10 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/VideoReel.jsx, /src/index.css[22m
+[2m2:20:10 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/VideoReel.jsx, /src/index.css[22m
