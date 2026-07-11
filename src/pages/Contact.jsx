@@ -5,6 +5,9 @@ import SplitHeadline from '../components/SplitHeadline.jsx'
 import ScrollReveal from '../components/ScrollReveal.jsx'
 import { reels } from '../data/media.js'
 
+const instagram = 'https://www.instagram.com/iyahmnl?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D'
+const facebook = 'https://www.facebook.com/iyah.manalo.10'
+
 export default function Contact() {
   const [form, setForm] = useState({ name: '', email: '', message: '' })
   const [sent, setSent] = useState(false)
@@ -16,7 +19,7 @@ export default function Contact() {
           <p className="kicker mb-6 text-charcoal">05 — Contact</p>
           <SplitHeadline text="Partnership opportunities." className="font-display font-light text-spread leading-[1.05] mb-12" />
           <ScrollReveal className="mb-12 max-w-lg space-y-6 text-charcoal">
-            <div><p className="kicker mb-2 text-charcoal/50">Content Creation</p><p>Luxury beauty, fashion, wellness, and lifestyle content for TikTok, Instagram, and digital campaigns.</p></div>
+            <div><p className="kicker mb-2 text-charcoal/50">Content Creation</p><p>Luxury beauty, fashion, wellness, and lifestyle content for Instagram, Facebook, and digital campaigns.</p></div>
             <div><p className="kicker mb-2 text-charcoal/50">Campaign Modeling</p><p>Beauty campaigns • Makeup collections • Skincare launches • Commercial • Editorial • E-commerce</p></div>
             <div><p className="kicker mb-2 text-charcoal/50">Brand Partnerships</p><p>Sponsored campaigns • Brand ambassadorships • PR collaborations • Event appearances</p></div>
           </ScrollReveal>
@@ -27,7 +30,7 @@ export default function Contact() {
               <button type="submit" data-cursor="expand" className="kicker border border-ink px-8 py-4 transition-colors duration-300 hover:bg-ink hover:text-cream">{sent ? 'Sent — thank you' : 'Send message'}</button>
             </form>
           </ScrollReveal>
-          <div className="mt-16 space-y-1 kicker text-charcoal/60"><p>booking@iyahmanalo.com</p><p>Instagram — TikTok</p></div>
+          <div className="mt-16 space-y-1 kicker text-charcoal/60"><p>booking@iyahmanalo.com</p><p><a className="hover:opacity-60" href={instagram} target="_blank" rel="noreferrer">Instagram</a> — <a className="hover:opacity-60" href={facebook} target="_blank" rel="noreferrer">Facebook</a></p></div>
         </div>
         <div className="md:col-span-4 md:col-start-9"><VideoReel {...reels.contact} className="w-full" /></div>
       </section>

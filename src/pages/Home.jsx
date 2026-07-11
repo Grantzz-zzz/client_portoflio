@@ -23,7 +23,7 @@ export default function Home() {
           <p className="kicker mb-4 opacity-80">Beauty • Fashion • Lifestyle</p>
           <SplitHeadline text="Iyah Manalo" className="font-display font-light text-hero leading-[0.95]" />
           <motion.p initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.9, duration: 0.7 }} className="mt-6 max-w-md font-body text-sm font-light opacity-90 md:text-base">
-            Beauty, fashion, and lifestyle content creator based in the Philippines.
+            Beauty, fashion, and lifestyle content creator based in Manila, Philippines.
           </motion.p>
         </div>
 

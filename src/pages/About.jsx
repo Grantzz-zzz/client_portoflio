@@ -15,13 +15,13 @@ export default function About() {
           <ScrollReveal><p className="mb-8 max-w-xl font-display text-2xl italic leading-relaxed text-charcoal md:text-3xl">“The most impactful content feels genuine while remaining visually refined.”</p></ScrollReveal>
           <ScrollReveal delay={0.1}>
             <div className="max-w-xl space-y-5 font-body text-sm leading-relaxed text-charcoal md:text-base">
-              <p>Hi, I’m Iyah Manalo, a beauty, fashion, and lifestyle content creator based in the Philippines.</p>
+              <p>Hi, I’m Iyah Manalo, a beauty, fashion, and lifestyle content creator based in Manila, Philippines.</p>
               <p>I create clean, elevated content that blends luxury aesthetics with authentic storytelling. My passion lies in beauty, skincare, fashion, wellness, and lifestyle, where I showcase products through engaging GRWMs, product features, event coverage, and everyday experiences.</p>
               <p>My goal is to help brands connect with their audience through high-quality, relatable content that inspires trust and drives engagement.</p>
             </div>
           </ScrollReveal>
           <ScrollReveal delay={0.2} className="mt-10 grid max-w-xl grid-cols-3 gap-4 border-t hairline pt-6">
-            {[['Based', 'Philippines'], ['Focus', 'Beauty / Fashion / Lifestyle'], ['Formats', 'GRWMs / Events / Campaigns']].map(([label, value]) => <div key={label}><p className="kicker mb-1 text-charcoal/50">{label}</p><p className="font-display text-lg">{value}</p></div>)}
+            {[['Based', 'Manila, Philippines'], ['Focus', 'Beauty / Fashion / Lifestyle'], ['Formats', 'GRWMs / Events / Campaigns']].map(([label, value]) => <div key={label}><p className="kicker mb-1 text-charcoal/50">{label}</p><p className="font-display text-lg">{value}</p></div>)}
           </ScrollReveal>
         </div>
       </section>
