@@ -19,29 +19,15 @@ export default function Home() {
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-ink/70 via-transparent to-ink/20" />
 
-        <div className="relative z-10 h-full flex flex-col justify-end px-6 md:px-12 pb-16 md:pb-20 text-cream">
-          <p className="kicker mb-4 opacity-80">Issue No. 01 — 2026</p>
-          <SplitHeadline
-            text="Iyah Manalo"
-            className="font-display font-light text-hero leading-[0.95]"
-          />
-          <motion.p
-            initial={{ opacity: 0, y: 16 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.9, duration: 0.7 }}
-            className="mt-6 max-w-md font-body text-sm md:text-base font-light opacity-90"
-          >
-            Model & creative — working across editorial, runway, and campaign.
-            Based between New York and Milan.
+        <div className="relative z-10 flex h-full flex-col justify-end px-6 pb-16 text-cream md:px-12 md:pb-20">
+          <p className="kicker mb-4 opacity-80">Beauty • Fashion • Lifestyle</p>
+          <SplitHeadline text="Iyah Manalo" className="font-display font-light text-hero leading-[0.95]" />
+          <motion.p initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.9, duration: 0.7 }} className="mt-6 max-w-md font-body text-sm font-light opacity-90 md:text-base">
+            Beauty, fashion, and lifestyle content creator based in the Philippines.
           </motion.p>
         </div>
 
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 1.3, duration: 0.8 }}
-          className="absolute bottom-6 right-6 md:right-12 kicker text-cream/80"
-        >
+        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1.3, duration: 0.8 }} className="absolute bottom-6 right-6 kicker text-cream/80 md:right-12">
           Scroll
         </motion.div>
       </section>
