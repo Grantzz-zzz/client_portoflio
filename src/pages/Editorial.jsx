@@ -33,10 +33,15 @@ export default function Editorial() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
             {editorialStills.map((img) => (
               <div key={img.id} className="aspect-[3/4] overflow-hidden bg-beige">
-                <img
+                <video
                   src={img.src}
-                  alt={img.alt}
-                  className="h-full w-full object-cover hover:scale-105 transition-transform duration-700 ease-editorial"
+                  aria-label={img.alt}
+                  className="h-full w-full object-cover"
+                  muted
+                  loop
+                  autoPlay
+                  playsInline
+                  preload="metadata"
                 />
               </div>
             ))}

@@ -56,8 +56,8 @@ export const galleryImages = [
 ]
 
 export const editorialStills = [
-  { id: 'e1', src: 'https://picsum.photos/seed/avery-e1/500/700', alt: 'Runway still 1' },
-  { id: 'e2', src: 'https://picsum.photos/seed/avery-e2/500/700', alt: 'Runway still 2' },
-  { id: 'e3', src: 'https://picsum.photos/seed/avery-e3/500/700', alt: 'Runway still 3' },
-  { id: 'e4', src: 'https://picsum.photos/seed/avery-e4/500/700', alt: 'Runway still 4' },
+  { id: 'e1', src: `${mediaBase}Featured-Works-1.mp4`, alt: 'Featured work 1' },
+  { id: 'e2', src: `${mediaBase}Featured-Works-2.mp4`, alt: 'Featured work 2' },
+  { id: 'e3', src: `${mediaBase}Featured-Works-3.mp4`, alt: 'Featured work 3' },
+  { id: 'e4', src: `${mediaBase}Featured-Works-4.mp4`, alt: 'Featured work 4' },
 ]
